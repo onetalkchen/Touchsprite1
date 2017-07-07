@@ -54,3 +54,4 @@ require("Num")
 
 
 dialog("你好")
+tosn("第三版本")
