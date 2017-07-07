@@ -53,3 +53,4 @@ require("Num")
  end
 
 
+dialog("你好")
